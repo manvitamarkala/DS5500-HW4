@@ -23,7 +23,7 @@ Below are the boxplots for the distribution of enrolled students across differen
 
 ###### Figure 2: Plots showing the distribution across different races
 
-![P2.1[]{label="fig:P2.1"}](P2.1.png)
+![P2[]{label="fig:P2"}](P2.png)
 
 ![P2.2[]{label="fig:P2.2"}](P2.2.png)
 
