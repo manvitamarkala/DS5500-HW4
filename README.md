@@ -38,7 +38,7 @@ Below are the boxplots for the distribution of enrolled students across differen
 ![P2.7[]{label="fig:P2.7"}](P2.7.png)
 
 
-Observation:
+Observation: The method that I have chosen doesnt seem to hide any bias or result in further disadvantage to groups that are already disadvantaged. Except for Asian race, all the other 6 races have either more number or equal number of students enrolled under the school districts that I have decided to cut funds from when compared to the districts with no cuts and they were not in minority already. However asian race shows a little different results, where it is already in minority and further cutting costs could be a diadvantage for the race.At an overall level, my decision is not having any hidden bias.
 
 ## Problem 3
 
@@ -49,7 +49,7 @@ Below is the boxplot for the distribution of enrolled students by disability sta
 ![P3[]{label="fig:P3"}](P3.png)
 ###### Figure 1: Boxplot of proportion of enrolled students by disability status
 
-Observation:
+Observation: 
 
 
 ## Problem 4
