@@ -66,5 +66,7 @@ I feel while this decision is very simple, naive and easy to understand and impl
 
 ### Summarize and comment on what you learned from one the special topics lectures (MapReduce + Hadoop,Visualization, Causal Inference, or the Industry Panel) of your choice.
 
+The special topics lecture that I want to summarize is about Causal Inference.
+
 
 
