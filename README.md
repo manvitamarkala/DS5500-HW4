@@ -66,7 +66,11 @@ I feel while this decision is very simple, naive and easy to understand and impl
 
 ### Summarize and comment on what you learned from one the special topics lectures (MapReduce + Hadoop,Visualization, Causal Inference, or the Industry Panel) of your choice.
 
-The special topics lecture that I want to summarize is about Causal Inference.
+The special topics lecture that I want to summarize is about Causal Inference. I have never heard a lot about Causal Inference before and its a completely new topic for me. This lecture has particularly excited me to learn more about this area of data science. The speaker has clearly first indicated how a causal inference problem is not a prediction problem but definitely a lot more different from a normal prediction problem (the problem definition itself varies).
 
+The concept of randomized controlled trials and their applied methodology to solve causal inference problems and how they have become standard in solving this kind of problems is interesting.
 
+The case study for kidney stone treatment and how the components X,Y,Z which are the basis of the equation relate to the outcome of prediction, treatment and stone size and how the concept of conditional independence for this case has been applied. Confounding and de-confounding was a totally new area and interesting topic too
+
+Towards the end of the lecture, I got diverted(a bit confused) and found it a little bit difficult to understand the final topics and thats entirely because this area is completely new and statistically heavy and there was a lot to digest about an entire topic in a 3hour lecture, but im really happy to have got introduced to this topic and also get a gist of the concept and Sicheng has done a really good job in explaining the concepts.
 
