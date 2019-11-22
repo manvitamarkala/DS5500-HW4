@@ -49,8 +49,7 @@ Below is the boxplot for the distribution of enrolled students by disability sta
 ![P3[]{label="fig:P3"}](P3.png)
 ###### Figure 1: Boxplot of proportion of enrolled students by disability status
 
-Observation: 
-
+Observation: The method that I have chosen doesnt seem to hide any bias or result in further disadvantage to groups that are already disadvantaged. The enrollment for disabled students is high in the school districts that I have cut costs from and were not in minority in the first place. The results for districts with cuts and no cuts are very close as observed from the graph, with more median on the districts that have been cut funds from. At an overall level, my decision is not having any hidden bias.
 
 ## Problem 4
 
